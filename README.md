@@ -66,6 +66,6 @@
 
 ###
 
-<p align="left">- 💼LinkedIn: https://www.linkedin.com/in/mohd-musyaffa-alief-athallah-37a318206/<br>- 🌐 Portfolio: TBA <br>- 📧 Email: aliefathallahmohd@gmail.com</p>
+<p align="left">- 💼 LinkedIn: https://www.linkedin.com/in/mohd-musyaffa-alief-athallah-37a318206/<br>- 🌐 Portfolio: TBA <br>- 📧 Email: aliefathallahmohd@gmail.com</p>
 
 ###
